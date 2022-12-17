@@ -1,0 +1,33 @@
+ul li{
+    display: inline;
+    margin-left: 15px;
+    font-size: 20px;
+
+
+}
+a{
+    text-decoration: none;
+}
+nav{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.button{
+    margin-top: 10px;
+}
+button{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+    background-color: rgb(0, 0, 255);
+  
+
+}
+
+
+button a{
+color: #fff;
+}
